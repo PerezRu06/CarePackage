@@ -1,0 +1,9 @@
+package care.backend;
+
+public class DBController {
+
+	public DBController() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
