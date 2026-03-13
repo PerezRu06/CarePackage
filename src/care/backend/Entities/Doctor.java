@@ -1,3 +1,4 @@
+package care.backend.Entities;
 import java.util.ArrayList;
 import java.util.List;
 

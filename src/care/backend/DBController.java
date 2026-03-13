@@ -1,5 +1,9 @@
+package care.backend;
 import java.util.ArrayList;
 import java.util.List;
+
+import care.backend.Entities.Doctor;
+import care.backend.Entities.Patient;
 
 public class DBController {
 

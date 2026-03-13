@@ -1,3 +1,4 @@
+package care.backend.Entities;
 import java.util.Date;
 
 public class Patient {
